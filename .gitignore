@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ignore generated file
+*.mp4
+*.mkv
+*.avi
+*.mid
+*.midi
+*.pdf
+
+# ignore local ide or editor setting
+.vscode/
+.idea/
